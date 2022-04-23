@@ -1,5 +1,5 @@
 <?php
-/* ----------- Arrrays ----------- */
+/* ----------- Arrays ----------- */
 
 /*
   If you need to store multiple values, you can use arrays. Arrays hold "elements"
@@ -48,7 +48,7 @@ var_dump($hex);
 /* ---- Multi-dimensional arrays ---- */
 
 /*
-  Multi-dimansional arrays are often used to store data in a table format.
+  Multi-dimensional arrays are often used to store data in a table format.
 */
 
 // Single person
